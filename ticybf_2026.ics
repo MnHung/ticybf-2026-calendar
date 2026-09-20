@@ -1,0 +1,1743 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ticybf-calendar//TW
+X-WR-CALNAME:2026 臺灣國際兒少嘉年華
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VEVENT
+UID:ticybf-2026-0@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T092500
+DTEND;TZID=Asia/Taipei:20260923T102000
+SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 登陸你的星球
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:校園專場・55min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-1@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T093500
+DTEND;TZID=Asia/Taipei:20260923T105000
+SUMMARY:[Tiffi外送中兒少影展] 奧利維亞的勇氣劇本
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:校園專場・75min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-2@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T094000
+DTEND;TZID=Asia/Taipei:20260923T104000
+SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 我的動物朋友
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:校園專場・60min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-3@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T095000
+DTEND;TZID=Asia/Taipei:20260923T113000
+SUMMARY:[Tiffi外送中兒少影展] 燈塔的孩子
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:校園專場・100min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-4@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T111000
+DTEND;TZID=Asia/Taipei:20260923T120000
+SUMMARY:[兒童沙龍] 看繪本，玩藝術—兒童創意工作坊
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153990
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153990
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-5@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T111000
+DTEND;TZID=Asia/Taipei:20260923T120000
+SUMMARY:[跨域沙龍] 記憶與想像的奇幻之旅：走進《魔法花園》的創作世界..
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154557
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154557
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-6@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T111000
+DTEND;TZID=Asia/Taipei:20260923T120000
+SUMMARY:[青少年沙龍] 《虎姑婆和他的朋友》勇氣小劇場
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153851
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153851
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-7@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T121500
+DTEND;TZID=Asia/Taipei:20260923T131500
+SUMMARY:[兒童沙龍] SOS！陳致元X Guji Guji遇上地震救援行動
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153993
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153993
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-8@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T121500
+DTEND;TZID=Asia/Taipei:20260923T131500
+SUMMARY:[跨域沙龍] 閱讀、想像、寫作、開拍！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154558
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154558
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-9@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T123000
+DTEND;TZID=Asia/Taipei:20260923T144500
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 成長事件簿
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:校園專場・135min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-10@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T123000
+DTEND;TZID=Asia/Taipei:20260923T131000
+SUMMARY:[Young Boom!劇場] 面白大丈夫《校園特輯》
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153301
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153301
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-11@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T124500
+DTEND;TZID=Asia/Taipei:20260923T150500
+SUMMARY:[Tiffi外送中兒少影展] 鋼琴之子
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:校園專場・140min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-12@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T130000
+DTEND;TZID=Asia/Taipei:20260923T134000
+SUMMARY:[Young Boom!劇場] 南方跳實驗空間《我忘了我是怎麼長大的》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153287
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153287
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-13@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T130000
+DTEND;TZID=Asia/Taipei:20260923T145500
+SUMMARY:[Tiffi外送中兒少影展] 比比的足球夢
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:校園專場・115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-14@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T131500
+DTEND;TZID=Asia/Taipei:20260923T151500
+SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於長大
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:校園專場・120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-15@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T133000
+DTEND;TZID=Asia/Taipei:20260923T143000
+SUMMARY:[兒童沙龍] 貓咪會說話嗎？——《愛說話的貓》閱讀與黏土創作活動
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153995
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153995
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-16@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T133000
+DTEND;TZID=Asia/Taipei:20260923T143000
+SUMMARY:[書展主舞台] 探索書本與閱讀的「關係」，展開「方法」的冒險－以編輯工學展望閱讀環境的未來
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153778
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153778
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-17@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T133000
+DTEND;TZID=Asia/Taipei:20260923T143000
+SUMMARY:[跨域沙龍] 很高興認識你！手語與文化的初次相遇
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154559
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154559
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-18@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T133000
+DTEND;TZID=Asia/Taipei:20260923T143000
+SUMMARY:[青少年沙龍] 《在還沒看懂生命之前就先做好自己》
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153848
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153848
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-19@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T133000
+DTEND;TZID=Asia/Taipei:20260923T143000
+SUMMARY:[高雄城市主題館] 故事所牽繫的人類豐盛 —— 紀錄片導演所著迷的『沖繩』、『百姓』與『台灣』的肌理
+LOCATION:高雄城市主題館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154052
+URL:https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154052
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-20@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T140000
+DTEND;TZID=Asia/Taipei:20260923T144000
+SUMMARY:[Young Boom!劇場] 日本「彩虹繪本屋」The Worthless樂團 兒童繪本音樂會
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153284
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153284
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-21@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T144500
+DTEND;TZID=Asia/Taipei:20260923T154500
+SUMMARY:[兒童沙龍] 來去寵物功夫學校練武功！
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153997
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153997
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-22@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T144500
+DTEND;TZID=Asia/Taipei:20260923T154500
+SUMMARY:[書展主舞台] 我的日常，我的作品：《滿熙的家》出版30年後，以《滿熙家的花園》記錄我們的日常
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153918
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153918
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-23@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T144500
+DTEND;TZID=Asia/Taipei:20260923T154500
+SUMMARY:[跨域沙龍] [漫畫]小學生的臺灣史-新書分享暨漫畫家見面會
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154207
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154207
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-24@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T144500
+DTEND;TZID=Asia/Taipei:20260923T154500
+SUMMARY:[青少年沙龍] 青春沒有重來鍵—從真實案例學習法律與選擇
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153846
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153846
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-25@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T160000
+DTEND;TZID=Asia/Taipei:20260923T170000
+SUMMARY:[兒童沙龍] 乳牙的太空旅行—《宇宙掉了一顆牙》
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153998
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153998
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-26@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T160000
+DTEND;TZID=Asia/Taipei:20260923T170000
+SUMMARY:[書展主舞台] Cédric 和 Vincent 雙人共創繪本
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153992
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153992
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-27@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T160000
+DTEND;TZID=Asia/Taipei:20260923T170000
+SUMMARY:[跨域沙龍] 《集合！》創意冒險隊：漫畫、AI與未來創作力
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154206
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154206
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-28@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T160000
+DTEND;TZID=Asia/Taipei:20260923T170000
+SUMMARY:[青少年沙龍] 如果可以永遠活著，你願意嗎?—和《機械人馬修》一起思考幸福的模樣
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153847
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153847
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-29@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T171500
+DTEND;TZID=Asia/Taipei:20260923T181500
+SUMMARY:[Podcast] 從生活觀察到圖文商業化，霸軒與工作室成員的創作經營對談
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153973
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153973
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-30@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T171500
+DTEND;TZID=Asia/Taipei:20260923T181500
+SUMMARY:[兒童沙龍] 把愛留下的那一天—透過《陪星星回家》學習愛、陪伴與思念
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153999
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/153999
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-31@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T171500
+DTEND;TZID=Asia/Taipei:20260923T181500
+SUMMARY:[青少年沙龍] 細細體會就偶遇了永遠
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153850
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153850
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-32@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T171500
+DTEND;TZID=Asia/Taipei:20260923T181500
+SUMMARY:[青少年沙龍] 2026 年還在發 IG 長文很糗嗎？日常觀察課：從生活開始寫作
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153849
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153849
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-33@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260923T185500
+DTEND;TZID=Asia/Taipei:20260923T210000
+SUMMARY:[Tiffi外送中兒少影展] 開幕片 - 寫給自己的那本書
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:125min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-34@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T092500
+DTEND;TZID=Asia/Taipei:20260924T110000
+SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於長大
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:校園專場・120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-35@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T093500
+DTEND;TZID=Asia/Taipei:20260924T103500
+SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 探險隊出發！
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:校園專場・60min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-36@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T094000
+DTEND;TZID=Asia/Taipei:20260924T105000
+SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 我的家庭日記
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:校園專場・70min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-37@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T095000
+DTEND;TZID=Asia/Taipei:20260924T114000
+SUMMARY:[Tiffi外送中兒少影展] 致未來的我
+LOCATION:喜樂時代 高雄總圖店 4 廳（4F）
+DESCRIPTION:校園專場・110min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-38@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T111000
+DTEND;TZID=Asia/Taipei:20260924T120000
+SUMMARY:[兒童沙龍] 孩子一定要完美?—從《小朋友專賣店》重新思考「好孩子」的模樣
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154000
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154000
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-39@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T111000
+DTEND;TZID=Asia/Taipei:20260924T120000
+SUMMARY:[跨域沙龍] 《虎姑婆和他的朋友》勇氣小劇場
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154204
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154204
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-40@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T111000
+DTEND;TZID=Asia/Taipei:20260924T120000
+SUMMARY:[青少年沙龍] 詩、繪本與當代藝術——西西作品的跨媒介轉化
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153852
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153852
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-41@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T113000
+DTEND;TZID=Asia/Taipei:20260924T121000
+SUMMARY:[Young Boom!劇場] MOMO親子台 MOMO歡樂唱跳秀
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/154342
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/154342
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-42@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T113000
+DTEND;TZID=Asia/Taipei:20260924T120000
+SUMMARY:[Young Boom!劇場] 永興樂皮影劇團 皮影戲互動體驗
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153302
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153302
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-43@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T121500
+DTEND;TZID=Asia/Taipei:20260924T131500
+SUMMARY:[兒童沙龍] 看不見的力氣：《山左大力士》搬山！
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154001
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154001
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-44@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T121500
+DTEND;TZID=Asia/Taipei:20260924T131500
+SUMMARY:[書展主舞台] 人生沒有標準答案：用「思維槓桿」找到屬於你的主導權
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153950
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153950
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-45@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T123000
+DTEND;TZID=Asia/Taipei:20260924T142500
+SUMMARY:[Tiffi外送中兒少影展] 我也想談戀愛
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:校園專場・115min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-46@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T124500
+DTEND;TZID=Asia/Taipei:20260924T143500
+SUMMARY:[Tiffi外送中兒少影展] 我的凡爾賽日記
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:校園專場・110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-47@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T130000
+DTEND;TZID=Asia/Taipei:20260924T134000
+SUMMARY:[Young Boom!劇場] 日本「彩虹繪本屋」The Worthless樂團 兒童繪本音樂會
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153284
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153284
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-48@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T130000
+DTEND;TZID=Asia/Taipei:20260924T151500
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 生命對話框
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:校園專場・135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-49@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T131500
+DTEND;TZID=Asia/Taipei:20260924T153500
+SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於你關於我
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:校園專場・140min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-50@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T133000
+DTEND;TZID=Asia/Taipei:20260924T143000
+SUMMARY:[兒童沙龍] 漢玲的Cos與漫畫之路
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154003
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154003
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-51@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T133000
+DTEND;TZID=Asia/Taipei:20260924T143000
+SUMMARY:[書展主舞台] 兒童文學描繪希望，閱讀則培育希望
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153953
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153953
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-52@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T133000
+DTEND;TZID=Asia/Taipei:20260924T143000
+SUMMARY:[跨域沙龍] 觀影種子散播中：我們將影展帶進教室裡！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154561
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154561
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-53@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T133000
+DTEND;TZID=Asia/Taipei:20260924T153000
+SUMMARY:[青少年沙龍] 文化部「兒童及青少年文本跨界媒合會」
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/154828
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/154828
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-54@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T133000
+DTEND;TZID=Asia/Taipei:20260924T143000
+SUMMARY:[高雄城市主題館] 《今まで語り継がれる日本の童話》 流傳至今的日本童話故事
+LOCATION:高雄城市主題館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154055
+URL:https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154055
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-55@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T140000
+DTEND;TZID=Asia/Taipei:20260924T144000
+SUMMARY:[Young Boom!劇場] 創造焦點《小丑八怪》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153288
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153288
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-56@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T144500
+DTEND;TZID=Asia/Taipei:20260924T154500
+SUMMARY:[Podcast] 《鴿在吹雞歸》相見恨晚的書單
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153974
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153974
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-57@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T144500
+DTEND;TZID=Asia/Taipei:20260924T154500
+SUMMARY:[書展主舞台] 《看見》城市與山林——西西詩作中的自然想像
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153954
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153954
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-58@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T144500
+DTEND;TZID=Asia/Taipei:20260924T154500
+SUMMARY:[跨域沙龍] 如果最好的朋友，明天就要離開了呢？
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154562
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154562
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-59@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T153000
+DTEND;TZID=Asia/Taipei:20260924T163000
+SUMMARY:[高雄城市主題館] 失智症VR沉浸式體驗工作坊
+LOCATION:高雄城市主題館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154057
+URL:https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154057
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-60@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T160000
+DTEND;TZID=Asia/Taipei:20260924T170000
+SUMMARY:[書展主舞台] 從構思到漫畫：打造女性角色
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153948
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153948
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-61@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T160000
+DTEND;TZID=Asia/Taipei:20260924T170000
+SUMMARY:[跨域沙龍] 真的假的？當AI也會說故事，我們該相信什麼？—《假新聞，偽科學》媒體素養分享會
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154205
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154205
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-62@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T171500
+DTEND;TZID=Asia/Taipei:20260924T181500
+SUMMARY:[兒童沙龍] momo mini 親子電影院
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154016
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154016
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-63@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T171500
+DTEND;TZID=Asia/Taipei:20260924T181500
+SUMMARY:[書展主舞台] 當世界對你已讀不回
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153952
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153952
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-64@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T190000
+DTEND;TZID=Asia/Taipei:20260924T205500
+SUMMARY:[Tiffi外送中兒少影展] 馬拉庫達大冒險
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-65@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260924T190000
+DTEND;TZID=Asia/Taipei:20260924T200000
+SUMMARY:[Young Boom!劇場] 高雄市管樂團 《日本動漫交響音樂會》特別企劃版
+LOCATION:戶外舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153295
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153295
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-66@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T101500
+DTEND;TZID=Asia/Taipei:20260925T113000
+SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 小寶貝電影院
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-67@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T101500
+DTEND;TZID=Asia/Taipei:20260925T123000
+SUMMARY:[Tiffi外送中兒少影展] 天才琴手
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:135min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-68@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T103000
+DTEND;TZID=Asia/Taipei:20260925T122500
+SUMMARY:[Tiffi外送中兒少影展] 我也想談戀愛
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:115min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-69@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T104500
+DTEND;TZID=Asia/Taipei:20260925T124500
+SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於存在
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-70@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T111000
+DTEND;TZID=Asia/Taipei:20260925T120000
+SUMMARY:[兒童沙龍] 綠動童心超有戲-淨零綠生活繪本短劇
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154022
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154022
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-71@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T111000
+DTEND;TZID=Asia/Taipei:20260925T120000
+SUMMARY:[跨域沙龍] 《蝴蝶先生選美大賽》── Alice Meteignier（艾莉絲‧梅戴妮兒） 創作對談會
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154199
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154199
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-72@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T111000
+DTEND;TZID=Asia/Taipei:20260925T120000
+SUMMARY:[青少年沙龍] 《父親的背囊》與《熱水爐》——成長、家庭與想像
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153853
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153853
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-73@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T113000
+DTEND;TZID=Asia/Taipei:20260925T120000
+SUMMARY:[Young Boom!劇場] 救援小英雄波力ｘ酪梨姐姐ｘ羚羊哥哥 波力出發吧！親子唱跳大冒險
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153303
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153303
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-74@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T121500
+DTEND;TZID=Asia/Taipei:20260925T131500
+SUMMARY:[兒童沙龍] 出發，就是冒險的開始—開啟你的第一場單車旅行！
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154017
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154017
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-75@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T121500
+DTEND;TZID=Asia/Taipei:20260925T144000
+SUMMARY:[Tiffi外送中兒少影展] 搖籃曲
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:145min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-76@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T121500
+DTEND;TZID=Asia/Taipei:20260925T131500
+SUMMARY:[書展主舞台] 《賴馬30：從愛哭公主到山雨小學，建構孩子的創意宇宙》
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153961
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153961
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-77@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T121500
+DTEND;TZID=Asia/Taipei:20260925T131500
+SUMMARY:[跨域沙龍] 繪本ｘ當代館：漫步一座行動藝術館
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154203
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154203
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-78@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T121500
+DTEND;TZID=Asia/Taipei:20260925T131500
+SUMMARY:[青少年沙龍] 招募飛行夥伴 ——讓孩子跟著《在鳥籠出生的小綠和他的朋友們》一起思考自由與人權
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153854
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153854
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-79@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T125500
+DTEND;TZID=Asia/Taipei:20260925T142500
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 心情放大鏡
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-80@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T130000
+DTEND;TZID=Asia/Taipei:20260925T140000
+SUMMARY:[臺灣漫畫館] 島嶼課堂 X 《再見信天翁》：野鳥共存與救護指南
+LOCATION:臺灣漫畫館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154807
+URL:https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154807
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-81@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T133000
+DTEND;TZID=Asia/Taipei:20260925T143000
+SUMMARY:[跨域沙龍] 奇幻生物其實一直都在你身邊！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154563
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154563
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-82@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T133000
+DTEND;TZID=Asia/Taipei:20260925T143000
+SUMMARY:[兒童沙龍] 我的情緒小怪獸創意工作坊＆分享會（與法國超人氣童書作家學習快樂創作）
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154018
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154018
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-83@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T133000
+DTEND;TZID=Asia/Taipei:20260925T143000
+SUMMARY:[書展主舞台] 得獎繪本的創作旅程：我如何在戰火下創作
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153958
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153958
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-84@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T133000
+DTEND;TZID=Asia/Taipei:20260925T143000
+SUMMARY:[青少年沙龍] 孩子不是故意的，但法律已經開始了！
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153855
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153855
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-85@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T133500
+DTEND;TZID=Asia/Taipei:20260925T151500
+SUMMARY:[Tiffi外送中兒少影展] 魔法花園
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:100min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-86@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T140000
+DTEND;TZID=Asia/Taipei:20260925T150000
+SUMMARY:[Young Boom!劇場] 如果兒童劇團《小店．小偷．小豬探！》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153291
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153291
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-87@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T140000
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[Tiffi外送中兒少影展] 勇闖魔幻黑森林
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-88@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T144500
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[Podcast] 直擊幕後！媽爹講故事配音過程大公開
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153975
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153975
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-89@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T144500
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[兒童沙龍] 小松鼠故事屋——最好的朋友只能有一位嗎？
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154019
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154019
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-90@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T144500
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[書展主舞台] 少年不讀水滸那要讀什麼？
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153962
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153962
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-91@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T144500
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[跨域沙龍] 《What？想一想小童話》——答案在哪裡？一起出發尋找吧！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154202
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154202
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-92@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T144500
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[青少年沙龍] 寫給明日的你：繪本中的萬物低語與日常共生
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153856
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153856
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-93@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T144500
+DTEND;TZID=Asia/Taipei:20260925T154500
+SUMMARY:[高雄城市主題館] 與土地共舞：身體、聲景與環境藝術的跨域對話
+LOCATION:高雄城市主題館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154061
+URL:https://ticybf.moc.gov.tw/home/zh-tw/高雄城市主題館/154061
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-94@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T150000
+DTEND;TZID=Asia/Taipei:20260925T163000
+SUMMARY:[臺灣漫畫館] 親子共遊 X 小精靈塔塔：手繪熱縮片吊飾DIY
+LOCATION:臺灣漫畫館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154808
+URL:https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154808
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-95@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T151500
+DTEND;TZID=Asia/Taipei:20260925T170500
+SUMMARY:[Tiffi外送中兒少影展] 滑板公園防衛隊
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-96@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T153000
+DTEND;TZID=Asia/Taipei:20260925T171000
+SUMMARY:[Tiffi外送中兒少影展] 最棒的生日
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:100min｜Age 4+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-97@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T160000
+DTEND;TZID=Asia/Taipei:20260925T170000
+SUMMARY:[兒童沙龍] 當我們不一樣，還能成為朋友嗎?—透過《我想和你做朋友》認識每個孩子獨特的世界
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154020
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154020
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-98@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T160000
+DTEND;TZID=Asia/Taipei:20260925T170000
+SUMMARY:[書展主舞台] 動起來的書！
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153963
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153963
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-99@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T160000
+DTEND;TZID=Asia/Taipei:20260925T170000
+SUMMARY:[跨域沙龍] 一起走進時空旋轉門！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154566
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154566
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-100@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T160000
+DTEND;TZID=Asia/Taipei:20260925T170000
+SUMMARY:[青少年沙龍] 愛海的爸爸 —《成為海的第一天》新書分享
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153857
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153857
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-101@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T162000
+DTEND;TZID=Asia/Taipei:20260925T181000
+SUMMARY:[Tiffi外送中兒少影展] 青春的三角習題
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:110min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-102@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T164500
+DTEND;TZID=Asia/Taipei:20260925T190000
+SUMMARY:[Tiffi外送中兒少影展] 夏日的藍色夢想
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-103@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T170000
+DTEND;TZID=Asia/Taipei:20260925T174000
+SUMMARY:[Young Boom!劇場] 韓國Nangman Barricade《有真與有真》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153285
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153285
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-104@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T171500
+DTEND;TZID=Asia/Taipei:20260925T181500
+SUMMARY:[兒童沙龍] 勾勒自己最愛的家—故事導讀與DIY創作~以入圍金鼎獎及金繪獎作品《佳佳的新廚房》出發的旅程
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154021
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154021
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-105@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T171500
+DTEND;TZID=Asia/Taipei:20260925T181500
+SUMMARY:[書展主舞台] CIRCUS GO
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/154481
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/154481
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-106@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T171500
+DTEND;TZID=Asia/Taipei:20260925T181500
+SUMMARY:[跨域沙龍] 東雨《口袋神探LIVE偵探秀》ft.﹝我們家的睡前故事﹞
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154200
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154200
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-107@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T171500
+DTEND;TZID=Asia/Taipei:20260925T181500
+SUMMARY:[青少年沙龍] 跟著圖畫書去旅行：慢車緩行的《藍皮慢火車》
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153858
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153858
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-108@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T180000
+DTEND;TZID=Asia/Taipei:20260925T190000
+SUMMARY:[Young Boom!劇場] 想像力就是你的超能力
+LOCATION:南館舞台
+DESCRIPTION:來源：南館舞台頁 https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
+URL:https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-109@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260925T190000
+DTEND;TZID=Asia/Taipei:20260925T203000
+SUMMARY:[Young Boom!劇場] 紙風車劇團《諸葛四郎》 feat. 即將成真火舞團
+LOCATION:戶外舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153296
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153296
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-110@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T103000
+DTEND;TZID=Asia/Taipei:20260926T122000
+SUMMARY:[Tiffi外送中兒少影展] 勇闖魔幻黑森林
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-111@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T103500
+DTEND;TZID=Asia/Taipei:20260926T123000
+SUMMARY:[Tiffi外送中兒少影展] 青春的三角習題
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-112@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T104500
+DTEND;TZID=Asia/Taipei:20260926T125500
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 成長事件簿
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:135min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-113@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T105000
+DTEND;TZID=Asia/Taipei:20260926T131000
+SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於你關於我
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:140min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-114@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T111000
+DTEND;TZID=Asia/Taipei:20260926T120000
+SUMMARY:[兒童沙龍] 飛向世界另一端：我的法國繪本創作之路
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154026
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154026
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-115@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T111000
+DTEND;TZID=Asia/Taipei:20260926T121000
+SUMMARY:[Young Boom!劇場] 音樂陪我長大 從琴鍵出發的旅程
+LOCATION:南館舞台
+DESCRIPTION:來源：南館舞台頁 https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
+URL:https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-116@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T111000
+DTEND;TZID=Asia/Taipei:20260926T120000
+SUMMARY:[跨域沙龍] 《若是一个島想欲去旅行》新書分享會
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154198
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154198
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-117@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T111000
+DTEND;TZID=Asia/Taipei:20260926T120000
+SUMMARY:[青少年沙龍] 《學校不會教的人生課》
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153862
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153862
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-118@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T112000
+DTEND;TZID=Asia/Taipei:20260926T120000
+SUMMARY:[Young Boom!劇場] 妹迪IN TAIWAN《少年ê安啦！》
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153292
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153292
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-119@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T121500
+DTEND;TZID=Asia/Taipei:20260926T131500
+SUMMARY:[兒童沙龍] 《勇士之歌》新書分享會
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154025
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154025
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-120@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T121500
+DTEND;TZID=Asia/Taipei:20260926T131500
+SUMMARY:[書展主舞台] 培育新讀者：來自捷克的觀點
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153965
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153965
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-121@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T121500
+DTEND;TZID=Asia/Taipei:20260926T131500
+SUMMARY:[跨域沙龍] 《小小點點》新書分享會——世界如此美麗，正因為有特別的你
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154197
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154197
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-122@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T121500
+DTEND;TZID=Asia/Taipei:20260926T131500
+SUMMARY:[青少年沙龍] 用有聲書聽出英語力
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153859
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153859
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-123@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T130000
+DTEND;TZID=Asia/Taipei:20260926T145000
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 我家開麥拉
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-124@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T130000
+DTEND;TZID=Asia/Taipei:20260926T140000
+SUMMARY:[臺灣漫畫館] 島嶼課堂 X《台灣特有種》：小小配音員
+LOCATION:臺灣漫畫館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154809
+URL:https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154809
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-125@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T132000
+DTEND;TZID=Asia/Taipei:20260926T153500
+SUMMARY:[Tiffi外送中兒少影展] 乒乓男孩
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-126@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T133000
+DTEND;TZID=Asia/Taipei:20260926T143000
+SUMMARY:[Podcast] 收下山神的邀請卡、一起來聽故事吧！
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153976
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153976
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-127@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T133000
+DTEND;TZID=Asia/Taipei:20260926T143000
+SUMMARY:[兒童沙龍] 一起說故事：與孩子共同創作的龜兔賽跑續集
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154028
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154028
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-128@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T133000
+DTEND;TZID=Asia/Taipei:20260926T150000
+SUMMARY:[書展主舞台] 『読むこと、そして書くこと』（閱讀，以及書寫）
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153966
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153966
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-129@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T133000
+DTEND;TZID=Asia/Taipei:20260926T143000
+SUMMARY:[跨域沙龍] 從漫畫到電影，走進海岸村的奇幻世界！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154568
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154568
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-130@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T133000
+DTEND;TZID=Asia/Taipei:20260926T143000
+SUMMARY:[青少年沙龍] 少年人行入台語詩路
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153863
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153863
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-131@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T133500
+DTEND;TZID=Asia/Taipei:20260926T162500
+SUMMARY:[Tiffi外送中兒少影展] 海岸村咚咚咚
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:170min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-132@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T134000
+DTEND;TZID=Asia/Taipei:20260926T152500
+SUMMARY:[Tiffi外送中兒少影展] 滑板公園防衛隊
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-133@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T140000
+DTEND;TZID=Asia/Taipei:20260926T144000
+SUMMARY:[Young Boom!劇場] 両両製造聚團《靠近水的地方》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153293
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153293
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-134@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T143000
+DTEND;TZID=Asia/Taipei:20260926T153000
+SUMMARY:[特別企劃] 【通往世界的遊艇】活動預約報名辦法
+LOCATION:新光碼頭（高雄展覽館旁）
+DESCRIPTION:需線上預約報名 https://ticybf.moc.gov.tw/home/zh-tw/特別企劃/154445
+URL:https://ticybf.moc.gov.tw/home/zh-tw/特別企劃/154445
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-135@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T144500
+DTEND;TZID=Asia/Taipei:20260926T154500
+SUMMARY:[兒童沙龍] 孩子的情緒互動書~親子一同悅讀情緒
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154023
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154023
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-136@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T144500
+DTEND;TZID=Asia/Taipei:20260926T154500
+SUMMARY:[跨域沙龍] 翻開生氣使用說明書
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154569
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154569
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-137@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T144500
+DTEND;TZID=Asia/Taipei:20260926T154500
+SUMMARY:[青少年沙龍] 迎接女神降臨——《眾神之島3》的走走晃晃
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153860
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153860
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-138@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T145500
+DTEND;TZID=Asia/Taipei:20260926T154500
+SUMMARY:[Podcast] 欖仁媽媽說故事：不分年齡的閱讀體驗
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153978
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153978
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-139@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T150000
+DTEND;TZID=Asia/Taipei:20260926T160000
+SUMMARY:[臺灣漫畫館] 親子共遊 X 《海巫事務所》：海廢DIY永續工作坊
+LOCATION:臺灣漫畫館
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154811
+URL:https://ticybf.moc.gov.tw/home/zh-tw/臺灣漫畫館/154811
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-140@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T151000
+DTEND;TZID=Asia/Taipei:20260926T160000
+SUMMARY:[書展主舞台] 融合教育
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153964
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153964
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-141@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T151500
+DTEND;TZID=Asia/Taipei:20260926T165500
+SUMMARY:[Tiffi外送中兒少影展] 奧利維亞的勇氣劇本
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:100min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-142@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T154000
+DTEND;TZID=Asia/Taipei:20260926T164000
+SUMMARY:[特別企劃] 【通往世界的遊艇】活動預約報名辦法
+LOCATION:新光碼頭（高雄展覽館旁）
+DESCRIPTION:需線上預約報名 https://ticybf.moc.gov.tw/home/zh-tw/特別企劃/154445
+URL:https://ticybf.moc.gov.tw/home/zh-tw/特別企劃/154445
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-143@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T155500
+DTEND;TZID=Asia/Taipei:20260926T180500
+SUMMARY:[Tiffi外送中兒少影展] 天才琴手
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:130min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-144@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T160000
+DTEND;TZID=Asia/Taipei:20260926T170000
+SUMMARY:[兒童沙龍] 長大才沒那麼簡單！
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154555
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154555
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-145@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T160000
+DTEND;TZID=Asia/Taipei:20260926T170000
+SUMMARY:[跨域沙龍] 紙袋少年遇上蛋頭少年：我們一樣怪！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154570
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154570
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-146@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T160000
+DTEND;TZID=Asia/Taipei:20260926T170000
+SUMMARY:[青少年沙龍] 《因與聿．案簿錄》改編漫畫創作分享會
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153861
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153861
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-147@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T160500
+DTEND;TZID=Asia/Taipei:20260926T173000
+SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 驚奇不設限
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:85min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-148@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T161000
+DTEND;TZID=Asia/Taipei:20260926T171000
+SUMMARY:[書展主舞台] 《牧羊女戰士》漫畫Live音樂會
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153967
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153967
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-149@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T165000
+DTEND;TZID=Asia/Taipei:20260926T175000
+SUMMARY:[特別企劃] 【通往世界的遊艇】活動預約報名辦法
+LOCATION:新光碼頭（高雄展覽館旁）
+DESCRIPTION:需線上預約報名 https://ticybf.moc.gov.tw/home/zh-tw/特別企劃/154445
+URL:https://ticybf.moc.gov.tw/home/zh-tw/特別企劃/154445
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-150@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T170000
+DTEND;TZID=Asia/Taipei:20260926T174000
+SUMMARY:[Young Boom!劇場] 韓國Nangman Barricade《有真與有真》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153285
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153285
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-151@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T171500
+DTEND;TZID=Asia/Taipei:20260926T181500
+SUMMARY:[Podcast] 漫談台灣大小事
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153977
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153977
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-152@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T171500
+DTEND;TZID=Asia/Taipei:20260926T181500
+SUMMARY:[兒童沙龍] 好大的月亮，出現啦！培根君作品分享會
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154024
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154024
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-153@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T171500
+DTEND;TZID=Asia/Taipei:20260926T181500
+SUMMARY:[跨域沙龍] 《當幸福敲敲門》小人大問號・親子哲學時間
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154196
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154196
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-154@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T171500
+DTEND;TZID=Asia/Taipei:20260926T181500
+SUMMARY:[青少年沙龍] 這繪本也太文學了吧：讓寫作者大驚的繪本選書
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153864
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153864
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-155@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T173000
+DTEND;TZID=Asia/Taipei:20260926T192500
+SUMMARY:[Tiffi外送中兒少影展] 馬拉庫達大冒險
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-156@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T173000
+DTEND;TZID=Asia/Taipei:20260926T183000
+SUMMARY:[書展主舞台] 《一人出版社，如何不倒閉地活下去》——因為有大家的陪伴才可能發生的事
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153968
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153968
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-157@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260926T190000
+DTEND;TZID=Asia/Taipei:20260926T203000
+SUMMARY:[Young Boom!劇場] 唐美雲歌仔戲團《收妖日記：愛嚇人的黑嚕嚕》
+LOCATION:戶外舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153299
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153299
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-158@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T103000
+DTEND;TZID=Asia/Taipei:20260927T121500
+SUMMARY:[Tiffi外送中兒少影展] 雀鳥的秘密
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-159@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T104000
+DTEND;TZID=Asia/Taipei:20260927T124500
+SUMMARY:[Tiffi外送中兒少影展] 哈妮心樂章
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:125min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-160@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T104500
+DTEND;TZID=Asia/Taipei:20260927T133500
+SUMMARY:[Tiffi外送中兒少影展] 海岸村咚咚咚
+LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
+DESCRIPTION:170min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-161@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T105500
+DTEND;TZID=Asia/Taipei:20260927T123000
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 翻轉腦細胞
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-162@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T111000
+DTEND;TZID=Asia/Taipei:20260927T120000
+SUMMARY:[兒童沙龍] 從漢藥房到文學少女：把生活記憶寫成精彩故事
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154040
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154040
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-163@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T111000
+DTEND;TZID=Asia/Taipei:20260927T120000
+SUMMARY:[跨域沙龍] 人類、巫術與山精風靈共存的魔幻冒險 ——金鼎獎小說【東谷沙飛傳奇二部曲】中的跨族群神話與文化轉譯
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154191
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154191
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-164@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T111000
+DTEND;TZID=Asia/Taipei:20260927T120000
+SUMMARY:[青少年沙龍] 漫畫家的腦洞開多大？ 《即使世界末日也要閃閃發光》的黑色幽默
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153868
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153868
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-165@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T113000
+DTEND;TZID=Asia/Taipei:20260927T120000
+SUMMARY:[Young Boom!劇場] 狼之雫《SOF 守護者 原創特攝》
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153304
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153304
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-166@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T121500
+DTEND;TZID=Asia/Taipei:20260927T131500
+SUMMARY:[兒童沙龍] 《回家抱抱》說故事活動暨簽書會
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154031
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154031
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-167@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T121500
+DTEND;TZID=Asia/Taipei:20260927T131500
+SUMMARY:[書展主舞台] 貓熊小湯匙 x The Worthless故事歌唱派對：一起大聲唱出貓熊咒語、讓吃飯洗澡變得好好玩！
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153969
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153969
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-168@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T121500
+DTEND;TZID=Asia/Taipei:20260927T131500
+SUMMARY:[跨域沙龍] 梨山追星法則： 不想當路人甲，就拿鬥性來換！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154194
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154194
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-169@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T121500
+DTEND;TZID=Asia/Taipei:20260927T131500
+SUMMARY:[青少年沙龍] 時間留下的禮物：那些百讀不厭的英文繪本
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153865
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153865
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-170@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T124500
+DTEND;TZID=Asia/Taipei:20260927T144000
+SUMMARY:[Tiffi外送中兒少影展] 妖怪森林
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:115min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-171@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T133000
+DTEND;TZID=Asia/Taipei:20260927T143000
+SUMMARY:[Podcast] 在科技與創作之間：那些關於成長的思辨
+LOCATION:Podcast
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153979
+URL:https://ticybf.moc.gov.tw/home/zh-tw/Podcast/153979
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-172@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T133000
+DTEND;TZID=Asia/Taipei:20260927T143000
+SUMMARY:[兒童沙龍] 單色鳥的故事：星球色彩遊戲
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154030
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154030
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-173@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T133000
+DTEND;TZID=Asia/Taipei:20260927T154500
+SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 生命對話框
+LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
+DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-174@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T133000
+DTEND;TZID=Asia/Taipei:20260927T143000
+SUMMARY:[書展主舞台] 別再吼了！臺法專家聯手出招：化解嚴肅議題的幽默溝通術(《好好說話，到哪都是人氣王！》芳索瓦茲‧布雪Ｘ人氣親職作家澤爸對談分享會)
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153971
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153971
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-175@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T133000
+DTEND;TZID=Asia/Taipei:20260927T143000
+SUMMARY:[跨域沙龍] 一起翻轉視角看世界！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154573
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154573
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-176@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T133000
+DTEND;TZID=Asia/Taipei:20260927T143000
+SUMMARY:[青少年沙龍] 一句話，如何變成一本書？
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153869
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153869
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-177@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T134500
+DTEND;TZID=Asia/Taipei:20260927T151500
+SUMMARY:[Tiffi外送中兒少影展] 塔咪貓的新朋友
+LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
+DESCRIPTION:90min｜Age 4+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-178@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T140000
+DTEND;TZID=Asia/Taipei:20260927T144000
+SUMMARY:[Young Boom!劇場] 妹迪IN TAIWAN《少年ê安啦！》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153292
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153292
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-179@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T144500
+DTEND;TZID=Asia/Taipei:20260927T154500
+SUMMARY:[兒童沙龍] 《裡面什麼都有》新書分享會
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154032
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154032
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-180@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T144500
+DTEND;TZID=Asia/Taipei:20260927T154500
+SUMMARY:[書展主舞台] 魔法依舊，豆豆長大了：《魔法阿媽》電影前導X漫畫分享會
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153970
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153970
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-181@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T144500
+DTEND;TZID=Asia/Taipei:20260927T154500
+SUMMARY:[跨域沙龍] 你是跟屁蟲嗎？
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154195
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154195
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-182@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T144500
+DTEND;TZID=Asia/Taipei:20260927T154500
+SUMMARY:[青少年沙龍] 妖異與島共生——《怪島奇譚 2》創作分享會
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153866
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153866
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-183@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T151000
+DTEND;TZID=Asia/Taipei:20260927T174500
+SUMMARY:[Tiffi外送中兒少影展] 閉幕片- BISHU: 世界上最溫柔的衣服
+LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
+DESCRIPTION:155min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-184@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T160000
+DTEND;TZID=Asia/Taipei:20260927T170000
+SUMMARY:[兒童沙龍] 跟著《貓房子》去旅行：從創作到世界的奇幻旅程
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154035
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154035
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-185@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T160000
+DTEND;TZID=Asia/Taipei:20260927T170000
+SUMMARY:[跨域沙龍] 48小時的「勇氣挑戰賽」！
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154574
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154574
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-186@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T160000
+DTEND;TZID=Asia/Taipei:20260927T170000
+SUMMARY:[青少年沙龍] 豆豆長大了！《魔法阿媽》漫畫完結簽書會
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153867
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153867
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-187@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T170000
+DTEND;TZID=Asia/Taipei:20260927T180000
+SUMMARY:[Young Boom!劇場] 無獨有偶工作室劇團《演奏吧!好土樂團》
+LOCATION:南館舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153294
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153294
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-188@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T171500
+DTEND;TZID=Asia/Taipei:20260927T181500
+SUMMARY:[兒童沙龍] momo mini 親子電影院
+LOCATION:兒童沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154043
+URL:https://ticybf.moc.gov.tw/home/zh-tw/兒童沙龍/154043
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-189@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T171500
+DTEND;TZID=Asia/Taipei:20260927T181500
+SUMMARY:[書展主舞台] ニジノ絵本屋（日本彩虹繪本屋）繪本小說分享
+LOCATION:書展主舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153972
+URL:https://ticybf.moc.gov.tw/home/zh-tw/書展主舞台/153972
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-190@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T171500
+DTEND;TZID=Asia/Taipei:20260927T181500
+SUMMARY:[跨域沙龍] 來談談戀愛吧！虛構世界の青澀曖昧——薪鹽《惑星與皓 中》座談會 ft.《魔女露露的煩惱》漫畫家JULAI
+LOCATION:跨域沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154193
+URL:https://ticybf.moc.gov.tw/home/zh-tw/跨域沙龍/154193
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-191@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T171500
+DTEND;TZID=Asia/Taipei:20260927T181500
+SUMMARY:[青少年沙龍] 我的創作路
+LOCATION:青少年沙龍
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153870
+URL:https://ticybf.moc.gov.tw/home/zh-tw/青少年沙龍/153870
+END:VEVENT
+BEGIN:VEVENT
+UID:ticybf-2026-192@ticybf.moc.gov.tw
+DTSTART;TZID=Asia/Taipei:20260927T190000
+DTEND;TZID=Asia/Taipei:20260927T204500
+SUMMARY:[Young Boom!劇場] 國立臺灣交響樂團 迪士尼皮克斯《可可夜總會》動畫交響音樂會
+LOCATION:戶外舞台
+DESCRIPTION: https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153300
+URL:https://ticybf.moc.gov.tw/home/zh-tw/演出團體介紹/153300
+END:VEVENT
+END:VCALENDAR
