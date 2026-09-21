@@ -9,8 +9,8 @@ DTSTART;TZID=Asia/Taipei:20260923T092500
 DTEND;TZID=Asia/Taipei:20260923T102000
 SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 登陸你的星球
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:校園專場・55min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・55min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi_8
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi_8
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-1@ticybf.moc.gov.tw
@@ -18,8 +18,8 @@ DTSTART;TZID=Asia/Taipei:20260923T093500
 DTEND;TZID=Asia/Taipei:20260923T105000
 SUMMARY:[Tiffi外送中兒少影展] 奧利維亞的勇氣劇本
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:校園專場・75min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・75min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A5%A7%E5%88%A9%E7%B6%AD%E4%BA%9E%E7%9A%84%E5%8B%87%E6%B0%A3%E5%8A%87%E6%9C%AC-9855296
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A5%A7%E5%88%A9%E7%B6%AD%E4%BA%9E%E7%9A%84%E5%8B%87%E6%B0%A3%E5%8A%87%E6%9C%AC-9855296
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-2@ticybf.moc.gov.tw
@@ -27,8 +27,8 @@ DTSTART;TZID=Asia/Taipei:20260923T094000
 DTEND;TZID=Asia/Taipei:20260923T104000
 SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 我的動物朋友
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:校園專場・60min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・60min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi5
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi5
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-3@ticybf.moc.gov.tw
@@ -36,8 +36,8 @@ DTSTART;TZID=Asia/Taipei:20260923T095000
 DTEND;TZID=Asia/Taipei:20260923T113000
 SUMMARY:[Tiffi外送中兒少影展] 燈塔的孩子
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:校園專場・100min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・100min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E7%87%88%E5%A1%94%E7%9A%84%E5%AD%A9%E5%AD%90-25322039
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E7%87%88%E5%A1%94%E7%9A%84%E5%AD%A9%E5%AD%90-25322039
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-4@ticybf.moc.gov.tw
@@ -90,8 +90,8 @@ DTSTART;TZID=Asia/Taipei:20260923T123000
 DTEND;TZID=Asia/Taipei:20260923T144500
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 成長事件簿
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:校園專場・135min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・135min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi16
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi16
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-10@ticybf.moc.gov.tw
@@ -108,8 +108,8 @@ DTSTART;TZID=Asia/Taipei:20260923T124500
 DTEND;TZID=Asia/Taipei:20260923T150500
 SUMMARY:[Tiffi外送中兒少影展] 鋼琴之子
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:校園專場・140min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・140min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E9%8B%BC%E7%90%B4%E4%B9%8B%E5%AD%90-5839486
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E9%8B%BC%E7%90%B4%E4%B9%8B%E5%AD%90-5839486
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-12@ticybf.moc.gov.tw
@@ -126,8 +126,8 @@ DTSTART;TZID=Asia/Taipei:20260923T130000
 DTEND;TZID=Asia/Taipei:20260923T145500
 SUMMARY:[Tiffi外送中兒少影展] 比比的足球夢
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:校園專場・115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%AF%94%E6%AF%94%E7%9A%84%E8%B6%B3%E7%90%83%E5%A4%A2-72037012
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%AF%94%E6%AF%94%E7%9A%84%E8%B6%B3%E7%90%83%E5%A4%A2-72037012
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-14@ticybf.moc.gov.tw
@@ -135,8 +135,8 @@ DTSTART;TZID=Asia/Taipei:20260923T131500
 DTEND;TZID=Asia/Taipei:20260923T151500
 SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於長大
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:校園專場・120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi22
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi22
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-15@ticybf.moc.gov.tw
@@ -306,8 +306,8 @@ DTSTART;TZID=Asia/Taipei:20260923T185500
 DTEND;TZID=Asia/Taipei:20260923T210000
 SUMMARY:[Tiffi外送中兒少影展] 開幕片 - 寫給自己的那本書
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:125min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:125min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%AF%AB%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E9%82%A3%E6%9C%AC%E6%9B%B8-3087842
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%AF%AB%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E9%82%A3%E6%9C%AC%E6%9B%B8-3087842
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-34@ticybf.moc.gov.tw
@@ -315,8 +315,8 @@ DTSTART;TZID=Asia/Taipei:20260924T092500
 DTEND;TZID=Asia/Taipei:20260924T110000
 SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於長大
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:校園專場・120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi22
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi22
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-35@ticybf.moc.gov.tw
@@ -324,8 +324,8 @@ DTSTART;TZID=Asia/Taipei:20260924T093500
 DTEND;TZID=Asia/Taipei:20260924T103500
 SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 探險隊出發！
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:校園專場・60min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・60min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi9
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi9
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-36@ticybf.moc.gov.tw
@@ -333,8 +333,8 @@ DTSTART;TZID=Asia/Taipei:20260924T094000
 DTEND;TZID=Asia/Taipei:20260924T105000
 SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 我的家庭日記
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:校園專場・70min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・70min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi7
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi7
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-37@ticybf.moc.gov.tw
@@ -342,8 +342,8 @@ DTSTART;TZID=Asia/Taipei:20260924T095000
 DTEND;TZID=Asia/Taipei:20260924T114000
 SUMMARY:[Tiffi外送中兒少影展] 致未來的我
 LOCATION:喜樂時代 高雄總圖店 4 廳（4F）
-DESCRIPTION:校園專場・110min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・110min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E8%87%B4%E6%9C%AA%E4%BE%86%E7%9A%84%E6%88%91-11993631
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E8%87%B4%E6%9C%AA%E4%BE%86%E7%9A%84%E6%88%91-11993631
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-38@ticybf.moc.gov.tw
@@ -414,8 +414,8 @@ DTSTART;TZID=Asia/Taipei:20260924T123000
 DTEND;TZID=Asia/Taipei:20260924T142500
 SUMMARY:[Tiffi外送中兒少影展] 我也想談戀愛
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:校園專場・115min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・115min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E6%88%91%E4%B9%9F%E6%83%B3%E8%AB%87%E6%88%80%E6%84%9B-50712542
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E6%88%91%E4%B9%9F%E6%83%B3%E8%AB%87%E6%88%80%E6%84%9B-50712542
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-46@ticybf.moc.gov.tw
@@ -423,8 +423,8 @@ DTSTART;TZID=Asia/Taipei:20260924T124500
 DTEND;TZID=Asia/Taipei:20260924T143500
 SUMMARY:[Tiffi外送中兒少影展] 我的凡爾賽日記
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:校園專場・110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E6%88%91%E7%9A%84%E5%87%A1%E7%88%BE%E8%B3%BD%E6%97%A5%E8%A8%98-39323439
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E6%88%91%E7%9A%84%E5%87%A1%E7%88%BE%E8%B3%BD%E6%97%A5%E8%A8%98-39323439
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-47@ticybf.moc.gov.tw
@@ -441,8 +441,8 @@ DTSTART;TZID=Asia/Taipei:20260924T130000
 DTEND;TZID=Asia/Taipei:20260924T151500
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 生命對話框
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:校園專場・135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi15
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi15
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-49@ticybf.moc.gov.tw
@@ -450,8 +450,8 @@ DTSTART;TZID=Asia/Taipei:20260924T131500
 DTEND;TZID=Asia/Taipei:20260924T153500
 SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於你關於我
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:校園專場・140min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:校園專場・140min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi23
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi23
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-50@ticybf.moc.gov.tw
@@ -585,8 +585,8 @@ DTSTART;TZID=Asia/Taipei:20260924T190000
 DTEND;TZID=Asia/Taipei:20260924T205500
 SUMMARY:[Tiffi外送中兒少影展] 馬拉庫達大冒險
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%A6%AC%E6%8B%89%E5%BA%AB%E9%81%94%E5%A4%A7%E5%86%92%E9%9A%AA-80317149
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%A6%AC%E6%8B%89%E5%BA%AB%E9%81%94%E5%A4%A7%E5%86%92%E9%9A%AA-80317149
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-65@ticybf.moc.gov.tw
@@ -603,8 +603,8 @@ DTSTART;TZID=Asia/Taipei:20260925T101500
 DTEND;TZID=Asia/Taipei:20260925T113000
 SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 小寶貝電影院
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi4
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi4
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-67@ticybf.moc.gov.tw
@@ -612,8 +612,8 @@ DTSTART;TZID=Asia/Taipei:20260925T101500
 DTEND;TZID=Asia/Taipei:20260925T123000
 SUMMARY:[Tiffi外送中兒少影展] 天才琴手
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:135min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:135min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A4%A9%E6%89%8D%E7%90%B4%E6%89%8B-85694908
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A4%A9%E6%89%8D%E7%90%B4%E6%89%8B-85694908
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-68@ticybf.moc.gov.tw
@@ -621,8 +621,8 @@ DTSTART;TZID=Asia/Taipei:20260925T103000
 DTEND;TZID=Asia/Taipei:20260925T122500
 SUMMARY:[Tiffi外送中兒少影展] 我也想談戀愛
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:115min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:115min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E6%88%91%E4%B9%9F%E6%83%B3%E8%AB%87%E6%88%80%E6%84%9B-50712542
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E6%88%91%E4%B9%9F%E6%83%B3%E8%AB%87%E6%88%80%E6%84%9B-50712542
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-69@ticybf.moc.gov.tw
@@ -630,8 +630,8 @@ DTSTART;TZID=Asia/Taipei:20260925T104500
 DTEND;TZID=Asia/Taipei:20260925T124500
 SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於存在
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:120min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi24
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi24
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-70@ticybf.moc.gov.tw
@@ -684,8 +684,8 @@ DTSTART;TZID=Asia/Taipei:20260925T121500
 DTEND;TZID=Asia/Taipei:20260925T144000
 SUMMARY:[Tiffi外送中兒少影展] 搖籃曲
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:145min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:145min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%90%96%E7%B1%83%E6%9B%B2-55929372
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%90%96%E7%B1%83%E6%9B%B2-55929372
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-76@ticybf.moc.gov.tw
@@ -720,8 +720,8 @@ DTSTART;TZID=Asia/Taipei:20260925T125500
 DTEND;TZID=Asia/Taipei:20260925T142500
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 心情放大鏡
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi13
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi13
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-80@ticybf.moc.gov.tw
@@ -774,8 +774,8 @@ DTSTART;TZID=Asia/Taipei:20260925T133500
 DTEND;TZID=Asia/Taipei:20260925T151500
 SUMMARY:[Tiffi外送中兒少影展] 魔法花園
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:100min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:100min｜Age 8+ https://www.ticff.org.tw/26tiffi_p/tiffi26/26tiffi8/%E9%AD%94%E6%B3%95%E8%8A%B1%E5%9C%92-39579107
+URL:https://www.ticff.org.tw/26tiffi_p/tiffi26/26tiffi8/%E9%AD%94%E6%B3%95%E8%8A%B1%E5%9C%92-39579107
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-86@ticybf.moc.gov.tw
@@ -792,8 +792,8 @@ DTSTART;TZID=Asia/Taipei:20260925T140000
 DTEND;TZID=Asia/Taipei:20260925T154500
 SUMMARY:[Tiffi外送中兒少影展] 勇闖魔幻黑森林
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%8B%87%E9%97%96%E9%AD%94%E5%B9%BB%E9%BB%91%E6%A3%AE%E6%9E%97-27688783
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%8B%87%E9%97%96%E9%AD%94%E5%B9%BB%E9%BB%91%E6%A3%AE%E6%9E%97-27688783
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-88@ticybf.moc.gov.tw
@@ -864,8 +864,8 @@ DTSTART;TZID=Asia/Taipei:20260925T151500
 DTEND;TZID=Asia/Taipei:20260925T170500
 SUMMARY:[Tiffi外送中兒少影展] 滑板公園防衛隊
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9C%92%E9%98%B2%E8%A1%9B%E9%9A%8A-75021065
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9C%92%E9%98%B2%E8%A1%9B%E9%9A%8A-75021065
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-96@ticybf.moc.gov.tw
@@ -873,8 +873,8 @@ DTSTART;TZID=Asia/Taipei:20260925T153000
 DTEND;TZID=Asia/Taipei:20260925T171000
 SUMMARY:[Tiffi外送中兒少影展] 最棒的生日
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:100min｜Age 4+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:100min｜Age 4+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26Tiffi4/%E6%9C%80%E6%A3%92%E7%9A%84%E7%94%9F%E6%97%A5-50372715
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26Tiffi4/%E6%9C%80%E6%A3%92%E7%9A%84%E7%94%9F%E6%97%A5-50372715
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-97@ticybf.moc.gov.tw
@@ -918,8 +918,8 @@ DTSTART;TZID=Asia/Taipei:20260925T162000
 DTEND;TZID=Asia/Taipei:20260925T181000
 SUMMARY:[Tiffi外送中兒少影展] 青春的三角習題
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:110min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:110min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%9D%92%E6%98%A5%E7%9A%84%E4%B8%89%E8%A7%92%E7%BF%92%E9%A1%8C-54302825
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%9D%92%E6%98%A5%E7%9A%84%E4%B8%89%E8%A7%92%E7%BF%92%E9%A1%8C-54302825
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-102@ticybf.moc.gov.tw
@@ -927,8 +927,8 @@ DTSTART;TZID=Asia/Taipei:20260925T164500
 DTEND;TZID=Asia/Taipei:20260925T190000
 SUMMARY:[Tiffi外送中兒少影展] 夏日的藍色夢想
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%A4%8F%E6%97%A5%E7%9A%84%E8%97%8D%E8%89%B2%E5%A4%A2%E6%83%B3-66178782
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%A4%8F%E6%97%A5%E7%9A%84%E8%97%8D%E8%89%B2%E5%A4%A2%E6%83%B3-66178782
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-103@ticybf.moc.gov.tw
@@ -981,8 +981,8 @@ DTSTART;TZID=Asia/Taipei:20260925T180000
 DTEND;TZID=Asia/Taipei:20260925T190000
 SUMMARY:[Young Boom!劇場] 想像力就是你的超能力
 LOCATION:南館舞台
-DESCRIPTION:來源：南館舞台頁 https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
-URL:https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
+DESCRIPTION:來源：南館舞台頁 https://ticybf.moc.gov.tw/home/zh-tw/南館舞台_/154421
+URL:https://ticybf.moc.gov.tw/home/zh-tw/南館舞台_/154421
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-109@ticybf.moc.gov.tw
@@ -999,8 +999,8 @@ DTSTART;TZID=Asia/Taipei:20260926T103000
 DTEND;TZID=Asia/Taipei:20260926T122000
 SUMMARY:[Tiffi外送中兒少影展] 勇闖魔幻黑森林
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%8B%87%E9%97%96%E9%AD%94%E5%B9%BB%E9%BB%91%E6%A3%AE%E6%9E%97-27688783
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%8B%87%E9%97%96%E9%AD%94%E5%B9%BB%E9%BB%91%E6%A3%AE%E6%9E%97-27688783
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-111@ticybf.moc.gov.tw
@@ -1008,8 +1008,8 @@ DTSTART;TZID=Asia/Taipei:20260926T103500
 DTEND;TZID=Asia/Taipei:20260926T123000
 SUMMARY:[Tiffi外送中兒少影展] 青春的三角習題
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%9D%92%E6%98%A5%E7%9A%84%E4%B8%89%E8%A7%92%E7%BF%92%E9%A1%8C-54302825
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%9D%92%E6%98%A5%E7%9A%84%E4%B8%89%E8%A7%92%E7%BF%92%E9%A1%8C-54302825
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-112@ticybf.moc.gov.tw
@@ -1017,8 +1017,8 @@ DTSTART;TZID=Asia/Taipei:20260926T104500
 DTEND;TZID=Asia/Taipei:20260926T125500
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 成長事件簿
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:135min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:135min｜Age 11+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi16
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi16
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-113@ticybf.moc.gov.tw
@@ -1026,8 +1026,8 @@ DTSTART;TZID=Asia/Taipei:20260926T105000
 DTEND;TZID=Asia/Taipei:20260926T131000
 SUMMARY:[Tiffi外送中兒少影展] 青春開播中 - #關於你關於我
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:140min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:140min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi23
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi23
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-114@ticybf.moc.gov.tw
@@ -1044,8 +1044,8 @@ DTSTART;TZID=Asia/Taipei:20260926T111000
 DTEND;TZID=Asia/Taipei:20260926T121000
 SUMMARY:[Young Boom!劇場] 音樂陪我長大 從琴鍵出發的旅程
 LOCATION:南館舞台
-DESCRIPTION:來源：南館舞台頁 https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
-URL:https://ticybf.moc.gov.tw/home/zh-tw/南館舞台
+DESCRIPTION:來源：南館舞台頁 https://ticybf.moc.gov.tw/home/zh-tw/南館舞台_/154430
+URL:https://ticybf.moc.gov.tw/home/zh-tw/南館舞台_/154430
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-116@ticybf.moc.gov.tw
@@ -1116,8 +1116,8 @@ DTSTART;TZID=Asia/Taipei:20260926T130000
 DTEND;TZID=Asia/Taipei:20260926T145000
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 我家開麥拉
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:110min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi14
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi14
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-124@ticybf.moc.gov.tw
@@ -1134,8 +1134,8 @@ DTSTART;TZID=Asia/Taipei:20260926T132000
 DTEND;TZID=Asia/Taipei:20260926T153500
 SUMMARY:[Tiffi外送中兒少影展] 乒乓男孩
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E4%B9%92%E4%B9%93%E7%94%B7%E5%AD%A9-23571257
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E4%B9%92%E4%B9%93%E7%94%B7%E5%AD%A9-23571257
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-126@ticybf.moc.gov.tw
@@ -1188,8 +1188,8 @@ DTSTART;TZID=Asia/Taipei:20260926T133500
 DTEND;TZID=Asia/Taipei:20260926T162500
 SUMMARY:[Tiffi外送中兒少影展] 海岸村咚咚咚
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:170min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:170min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%B5%B7%E5%B2%B8%E6%9D%91%E5%92%9A%E5%92%9A%E5%92%9A-29715654
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%B5%B7%E5%B2%B8%E6%9D%91%E5%92%9A%E5%92%9A%E5%92%9A-29715654
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-132@ticybf.moc.gov.tw
@@ -1197,8 +1197,8 @@ DTSTART;TZID=Asia/Taipei:20260926T134000
 DTEND;TZID=Asia/Taipei:20260926T152500
 SUMMARY:[Tiffi外送中兒少影展] 滑板公園防衛隊
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9C%92%E9%98%B2%E8%A1%9B%E9%9A%8A-75021065
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E6%BB%91%E6%9D%BF%E5%85%AC%E5%9C%92%E9%98%B2%E8%A1%9B%E9%9A%8A-75021065
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-133@ticybf.moc.gov.tw
@@ -1278,8 +1278,8 @@ DTSTART;TZID=Asia/Taipei:20260926T151500
 DTEND;TZID=Asia/Taipei:20260926T165500
 SUMMARY:[Tiffi外送中兒少影展] 奧利維亞的勇氣劇本
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:100min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:100min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A5%A7%E5%88%A9%E7%B6%AD%E4%BA%9E%E7%9A%84%E5%8B%87%E6%B0%A3%E5%8A%87%E6%9C%AC-9855296
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A5%A7%E5%88%A9%E7%B6%AD%E4%BA%9E%E7%9A%84%E5%8B%87%E6%B0%A3%E5%8A%87%E6%9C%AC-9855296
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-142@ticybf.moc.gov.tw
@@ -1296,8 +1296,8 @@ DTSTART;TZID=Asia/Taipei:20260926T155500
 DTEND;TZID=Asia/Taipei:20260926T180500
 SUMMARY:[Tiffi外送中兒少影展] 天才琴手
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:130min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:130min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A4%A9%E6%89%8D%E7%90%B4%E6%89%8B-85694908
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E5%A4%A9%E6%89%8D%E7%90%B4%E6%89%8B-85694908
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-144@ticybf.moc.gov.tw
@@ -1332,8 +1332,8 @@ DTSTART;TZID=Asia/Taipei:20260926T160500
 DTEND;TZID=Asia/Taipei:20260926T173000
 SUMMARY:[Tiffi外送中兒少影展] 國際競賽 - 驚奇不設限
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:85min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:85min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi6
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi6
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-148@ticybf.moc.gov.tw
@@ -1404,8 +1404,8 @@ DTSTART;TZID=Asia/Taipei:20260926T173000
 DTEND;TZID=Asia/Taipei:20260926T192500
 SUMMARY:[Tiffi外送中兒少影展] 馬拉庫達大冒險
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:115min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%A6%AC%E6%8B%89%E5%BA%AB%E9%81%94%E5%A4%A7%E5%86%92%E9%9A%AA-80317149
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/%E9%A6%AC%E6%8B%89%E5%BA%AB%E9%81%94%E5%A4%A7%E5%86%92%E9%9A%AA-80317149
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-156@ticybf.moc.gov.tw
@@ -1431,8 +1431,8 @@ DTSTART;TZID=Asia/Taipei:20260927T103000
 DTEND;TZID=Asia/Taipei:20260927T121500
 SUMMARY:[Tiffi外送中兒少影展] 雀鳥的秘密
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:105min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E9%9B%80%E9%B3%A5%E7%9A%84%E7%A7%98%E5%AF%86-9907261
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E9%9B%80%E9%B3%A5%E7%9A%84%E7%A7%98%E5%AF%86-9907261
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-159@ticybf.moc.gov.tw
@@ -1440,8 +1440,8 @@ DTSTART;TZID=Asia/Taipei:20260927T104000
 DTEND;TZID=Asia/Taipei:20260927T124500
 SUMMARY:[Tiffi外送中兒少影展] 哈妮心樂章
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:125min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:125min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E5%93%88%E5%A6%AE%E5%BF%83%E6%A8%82%E7%AB%A0-33314098
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi11/%E5%93%88%E5%A6%AE%E5%BF%83%E6%A8%82%E7%AB%A0-33314098
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-160@ticybf.moc.gov.tw
@@ -1449,8 +1449,8 @@ DTSTART;TZID=Asia/Taipei:20260927T104500
 DTEND;TZID=Asia/Taipei:20260927T133500
 SUMMARY:[Tiffi外送中兒少影展] 海岸村咚咚咚
 LOCATION:喜樂時代 高雄總圖店 6 廳（2F）
-DESCRIPTION:170min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:170min｜Age 青少年 https://www.ticff.org.tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%B5%B7%E5%B2%B8%E6%9D%91%E5%92%9A%E5%92%9A%E5%92%9A-29715654
+URL:https://www.ticff.org.tw/26tiffi_p/tiffi26/26tiffi_teen/%E6%B5%B7%E5%B2%B8%E6%9D%91%E5%92%9A%E5%92%9A%E5%92%9A-29715654
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-161@ticybf.moc.gov.tw
@@ -1458,8 +1458,8 @@ DTSTART;TZID=Asia/Taipei:20260927T105500
 DTEND;TZID=Asia/Taipei:20260927T123000
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 翻轉腦細胞
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:（華語配音） https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi12
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi12
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-162@ticybf.moc.gov.tw
@@ -1539,8 +1539,8 @@ DTSTART;TZID=Asia/Taipei:20260927T124500
 DTEND;TZID=Asia/Taipei:20260927T144000
 SUMMARY:[Tiffi外送中兒少影展] 妖怪森林
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:115min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:115min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%A6%96%E6%80%AA%E6%A3%AE%E6%9E%97-10480698
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi8/%E5%A6%96%E6%80%AA%E6%A3%AE%E6%9E%97-10480698
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-171@ticybf.moc.gov.tw
@@ -1566,8 +1566,8 @@ DTSTART;TZID=Asia/Taipei:20260927T133000
 DTEND;TZID=Asia/Taipei:20260927T154500
 SUMMARY:[Tiffi外送中兒少影展] 觀摩單元 - 生命對話框
 LOCATION:喜樂時代 高雄總圖店 7 廳（3F）
-DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:135min｜Age 8+ https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi15
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/26tiffi_program/26tiffi15
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-174@ticybf.moc.gov.tw
@@ -1602,8 +1602,8 @@ DTSTART;TZID=Asia/Taipei:20260927T134500
 DTEND;TZID=Asia/Taipei:20260927T151500
 SUMMARY:[Tiffi外送中兒少影展] 塔咪貓的新朋友
 LOCATION:喜樂時代 高雄總圖店 9 廳（3F）
-DESCRIPTION:90min｜Age 4+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:90min｜Age 4+ https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26Tiffi4/%E5%A1%94%E5%92%AA%E8%B2%93%E7%9A%84%E6%96%B0%E6%9C%8B%E5%8F%8B-31267014
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26Tiffi4/%E5%A1%94%E5%92%AA%E8%B2%93%E7%9A%84%E6%96%B0%E6%9C%8B%E5%8F%8B-31267014
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-178@ticybf.moc.gov.tw
@@ -1656,8 +1656,8 @@ DTSTART;TZID=Asia/Taipei:20260927T151000
 DTEND;TZID=Asia/Taipei:20260927T174500
 SUMMARY:[Tiffi外送中兒少影展] 閉幕片- BISHU: 世界上最溫柔的衣服
 LOCATION:喜樂時代 高雄總圖店 4 廳（2F）
-DESCRIPTION:155min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
-URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffischedule26
+DESCRIPTION:155min｜Age 青少年 https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/BISHU-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%BA%AB%E6%9F%94%E7%9A%84%E8%A1%A3%E6%9C%8D-55266868
+URL:https://www.ticff.org.tw/zh_tw/26tiffi_p/tiffi26/26tiffi_teen/BISHU-%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%BA%AB%E6%9F%94%E7%9A%84%E8%A1%A3%E6%9C%8D-55266868
 END:VEVENT
 BEGIN:VEVENT
 UID:ticybf-2026-184@ticybf.moc.gov.tw
